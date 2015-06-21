@@ -1,3 +1,2 @@
 # seleniumtask
-To run this task, type in commandline:
-  java -jar googlesearch.jar 
+To run this task, open commadline and type "java -jar googlesearch.jar" in /seleiumtask/ directory.
